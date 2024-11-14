@@ -1,0 +1,12 @@
+---
+title: "Resources"
+listing: 
+  contents: resources 
+  type: grid 
+  sort: "date desc" 
+  categories: true  
+editor_options: 
+  chunk_output_type: console
+---
+
+Remember, learning never ends. In here, we have some very resources platforms or materials that we can always consult or learning something new from:

@@ -1,0 +1,20 @@
+---
+title: "R Repository"
+author: "Sangbaptist"
+date: "2023-10-01"
+categories: [code, analysis, plot]
+#image: "images/mtcars.jpg"
+listing: 
+  contents: posts
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+# What is a repository?
+
+In the language of programmers, a repository (in short, repo) is a central location where code, files, and related project data are stored and managed. It is typically used for version control and collaboration, allowing developers to track changes, share work, and maintain codebases effectively.

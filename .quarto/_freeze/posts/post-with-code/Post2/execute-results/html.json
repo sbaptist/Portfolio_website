@@ -1,0 +1,14 @@
+{
+  "hash": "71c1a4d440d6ed2e2476d4c2110d8352",
+  "result": {
+    "markdown": "---\ntitle: \"Quarto Practice2\"\nsubtitle: \"Some description\"\nauthor: \"Sang B. Mendy\"\ndate: last-modified\ndate-format: \"DD-MM-YYYY\"\ndescription: \"This is a sample Quarto document\"\ntitle-block-banner: '#053F57'\nformat:\n  html:\n    theme:\n      dark: darkly\n      light: flatly\n    toc: true\n    number-sections: true\n    toc-depth: 3\n    toc-location: left\n    toc-title: Contents\n    code-block-border-left: \"#31BAE9\"\n    code-line-numbers: true\n    highlight-style: dracula\n    css: output_style.css\neditor: visual\n\n---\n\n\n\n### This is a second post\n\n\n::: {.cell}\n\n```{.r .cell-code}\nx <- 25\ny <- 2*x\ny\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 50\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,15 @@
+---
+title: "Blog"
+listing: 
+  contents: posts 
+  type: table
+  sort: "date desc" 
+  categories: true  
+---
+
+Welcome to my blog. Here are my recent posts:
+
+-   [Introducing R](posts/Introducing%20R.qmd)
+-   [R packages](posts/R%20packages.qmd)
+-   [R Repository](posts/R%20Repository.qmd)
+-   [Ways_of_viewing_data_in_R](posts/Ways_of_viewing_data_in_R.qmd)

@@ -1,0 +1,53 @@
+project:
+  type: website
+
+website:
+  title: "Portfolio"
+  favicon: "images/sang.jpg"
+  page-footer: 
+    center: |
+      [Contact Sang B.](mailto:sangbm7@gmail.com)
+    left: |
+      I created this website with [Quarto](https://quarto.org/)
+    right: |
+      [Github Code Repo](https://github.com/sbaptist)
+    background: "brown"
+  search: 
+    location: navbar
+    type: textbox
+  navbar:
+    left: 
+      - text: About
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: Statistics With R
+        href: statistics With R.qmd
+      - text: Resources
+        href: resources.qmd
+    right:
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+    
+toc: true
+format:
+  pdf: default
+  ipynb: default
+  html:
+    theme: 
+      light: flatly
+      dark: [cosmo, theme_dark_custom.scss]
+    code-link: true
+    code-fold: show
+    code-tools: true #code tools
+    code-block-bg: "lightblue"
+    code-block-border-left: "#31BAE9"
+    highlight-style: github
+editor: visual
+

@@ -1,0 +1,16 @@
+---
+title: "Learning Resources"
+author: "Sangbaptist"
+date: "2023-10-01"
+categories: [code, analysis, plot]
+#image:  "images/R_programming.jpg"
+listing: 
+  contents: resourcs
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---

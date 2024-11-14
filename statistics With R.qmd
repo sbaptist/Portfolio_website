@@ -1,0 +1,9 @@
+---
+title: "Statistics With R"
+bibliography: R.bib
+---
+
+Explore my tutorials on data science and programming:
+
+-   [Statistical Distributions](Statistics/Statistical_Distributions.qmd)
+-   [Tutorial 2](Statistics/tutorial2.qmd)

@@ -1,0 +1,8 @@
+---
+title: "Projects"
+---
+
+Here are some of the projects I've worked on:
+
+-   [Project 1](Projects/project1.qmd)
+-   [Project 2](Projects/project2.qmd)

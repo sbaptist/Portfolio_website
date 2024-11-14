@@ -1,0 +1,156 @@
+{
+  "about.qmd": {
+    "about.html": "04d43df9",
+    "about.tex": "13056c1a",
+    "about.ipynb": "8b6fdca0"
+  },
+  "index.qmd": {
+    "index.html": "08613621",
+    "index.tex": "6c01ad37",
+    "index.ipynb": "4b272637"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "e907593e",
+    "index.tex": "3b49c139",
+    "index.ipynb": "0acc4019"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "37676eeb",
+    "index.tex": "1fb0a891",
+    "index.ipynb": "d0d4e461"
+  },
+  "resume.qmd": {
+    "resume.html": "11741215",
+    "resume.tex": "380973ef",
+    "resume.ipynb": "4cd516e1"
+  },
+  "project.qmd": {
+    "project.html": "d35cd987"
+  },
+  "projects.qmd": {
+    "projects.html": "3c2a31bf",
+    "projects.tex": "23bb0cee",
+    "projects.ipynb": "e22dbf6e"
+  },
+  "posts/post-with-code/Post2.qmd": {
+    "Post2.html": "8b968157"
+  },
+  "Projects/projects.qmd": {
+    "projects.html": "057442c6",
+    "projects.tex": "891863f4",
+    "projects.ipynb": "2c6e6e6d"
+  },
+  "blog.qmd": {
+    "blog.tex": "0ffaa35e",
+    "blog.html": "e2408d07",
+    "blog.ipynb": "3ac4f486"
+  },
+  "posts/post1.qmd": {
+    "post1.html": "11c69f64",
+    "post1.tex": "d65dd439",
+    "post1.ipynb": "ed3214df"
+  },
+  "posts/post2.qmd": {
+    "post2.html": "8b65dfac",
+    "post2.tex": "d80bef06",
+    "post2.ipynb": "8dacaa7a"
+  },
+  "Projects/project1.qmd": {
+    "project1.html": "7c2a43f1",
+    "project1.tex": "05d3ca2d",
+    "project1.ipynb": "359d6c17"
+  },
+  "Projects/project2.qmd": {
+    "project2.html": "a7be0df8",
+    "project2.tex": "5bf478b2",
+    "project2.ipynb": "ff9bfb06"
+  },
+  "Tutorials/tutorial1.qmd": {
+    "tutorial1.html": "9eec794b",
+    "tutorial1.tex": "75fb7be1",
+    "tutorial1.ipynb": "83c4b853"
+  },
+  "Tutorials/tutorial2.qmd": {
+    "tutorial2.html": "b836e76b",
+    "tutorial2.tex": "70094785",
+    "tutorial2.ipynb": "3d10ec4a"
+  },
+  "tutorials.qmd": {
+    "tutorials.html": "9627e7fc",
+    "tutorials.tex": "a31d0295",
+    "tutorials.ipynb": "cfd7193b"
+  },
+  "posts/Introducing R.qmd": {
+    "Introducing-R.tex": "a19d1465",
+    "Introducing R.html": "2399ed8e"
+  },
+  "posts/R packages.qmd": {
+    "R-packages.tex": "c9596927",
+    "R packages.html": "16452ee6",
+    "R packages.ipynb": "d1cb785c"
+  },
+  "posts/blog.qmd": {
+    "blog.html": "ed3b9a54",
+    "blog.tex": "7e01d973",
+    "blog.ipynb": "600588a1"
+  },
+  "Tutorials/tutorials.qmd": {
+    "tutorials.html": "aab53e0c",
+    "tutorials.tex": "b8275564",
+    "tutorials.ipynb": "57058116"
+  },
+  "posts/Introduction/Introducing R.qmd": {
+    "Introducing R.html": "675cd2b4"
+  },
+  "posts/R packages/R packages.qmd": {
+    "R packages.html": "a1296285",
+    "R-packages.tex": "30a74d22",
+    "R packages.ipynb": "2a3634e8"
+  },
+  "posts/R Repository.qmd": {
+    "R-Repository.tex": "06f5ba8e",
+    "R Repository.html": "8593d19d",
+    "R Repository.ipynb": "22132867"
+  },
+  "resources.qmd": {
+    "resources.tex": "5f951401",
+    "resources.html": "1caacf1a",
+    "resources.ipynb": "f0e8a8b4"
+  },
+  "posts/Ways_of_viewing_data_in_R.qmd": {
+    "Ways_of_viewing_data_in_R.html": "865c8373",
+    "Ways_of_viewing_data_in_R.tex": "f69ca379",
+    "Ways_of_viewing_data_in_R.ipynb": "c1d04b51"
+  },
+  "Resources/index.qmd": {
+    "index.html": "0ea95095",
+    "index.tex": "da619763",
+    "index.ipynb": "c6b64f91"
+  },
+  "Statistics With R/Statistical_Distributions.qmd": {
+    "Statistical_Distributions.html": "601479fc"
+  },
+  "Statistics With R/tutorial2.qmd": {
+    "tutorial2.html": "91fb7b93"
+  },
+  "Statistics With R.qmd": {
+    "Statistics With R.html": "d24d9609",
+    "Statistics-With-R.tex": "81c43de9",
+    "Statistics With R.ipynb": "8ea7c7d9"
+  },
+  "Statistics/Statistical_Distributions.qmd": {
+    "Statistical_Distributions.html": "76d61e5e",
+    "Statistical_Distributions.tex": "c0ab3dc7",
+    "Statistical_Distributions.ipynb": "b7461cfb"
+  },
+  "Statistics/tutorial2.qmd": {
+    "tutorial2.html": "f69f0c4a",
+    "tutorial2.tex": "e48204ef",
+    "tutorial2.ipynb": "a4fbcb16"
+  },
+  "statistics With R.qmd": {
+    "statistics With R.html": "bdea1b94",
+    "statistics-With-R.tex": "3a9ab740",
+    "statistics With R.ipynb": "a0a5b0f7"
+  }
+}

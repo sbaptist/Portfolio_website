@@ -1,0 +1,46 @@
+{
+  "listingMap": {
+    "blog.qmd": [
+      "posts"
+    ],
+    "posts\\R packages.qmd": [
+      "posts"
+    ],
+    "posts\\R Repository.qmd": [
+      "posts"
+    ],
+    "posts\\Ways_of_viewing_data_in_R.qmd": [
+      "posts"
+    ],
+    "Projects\\project1.qmd": [
+      "posts"
+    ],
+    "Projects\\project2.qmd": [
+      "posts"
+    ],
+    "Resources\\index.qmd": [
+      "resourcs"
+    ],
+    "resources.qmd": [
+      "resources"
+    ],
+    "Tutorials\\tutorial1.qmd": [
+      "posts"
+    ],
+    "Tutorials\\tutorial2.qmd": [
+      "posts"
+    ],
+    "Statistics With R\\Statistical_Distributions.qmd": [
+      "posts"
+    ],
+    "Statistics With R\\tutorial2.qmd": [
+      "posts"
+    ],
+    "Statistics\\Statistical_Distributions.qmd": [
+      "posts"
+    ],
+    "Statistics\\tutorial2.qmd": [
+      "posts"
+    ]
+  }
+}

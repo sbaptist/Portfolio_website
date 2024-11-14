@@ -1,0 +1,8 @@
+---
+title: "Stat"
+---
+
+Explore my tutorials on data science and programming:
+
+-   [Statistical Distributions](Statistics/Statistical%20Distrbutions.qmd)
+-   [Tutorial 2](Statistics/tutorial2.qmd)

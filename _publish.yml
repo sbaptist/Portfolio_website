@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 9d8bbfd8-cb4e-41a8-9232-ec6e32ed0ddd
+      url: 'https://sbaptist.quarto.pub/sbmendy'

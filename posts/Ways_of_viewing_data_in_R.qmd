@@ -1,0 +1,50 @@
+---
+title: "Ways of viewing data in R"
+author: "Sangbaptist"
+date: "2023-10-01"
+categories: [code, analysis, plot]
+#image:  "images/R_programming.jpg"
+listing: 
+  contents: posts
+  sort: "date desc"
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+# Twenty (20) plus ways of viewing data in R
+
+When data is loading into R,
+
+# View entire dataset
+
+# Head and tail of the dataset
+
+# View the structure of the dataset
+
+# Dimensions (number of rows & columns) of the dataset
+
+# View column names
+
+# View the data type of each column
+
+# View the first 5 row of a particular column
+
+# View specific rows or columns
+
+# Get a summary of your dataset
+
+# Peek at the top and bottom of each column with `skimr` pacakge
+
+# Check data type of columns with `sapply` function
+
+# Inspect the first few rows of a dataframe with`glimpse` from `dyplyr` package
+
+# View uniques values in a data frame with `unique` function
+
+# View frequency of each value with `table` function
+
+# 
