@@ -2,21 +2,43 @@ project:
   type: website
 
 website:
-  title: "Portfolio"
+  title: "Sang B. Mendy"
+  description: "A Gambian mathematician and data scientist 
+    documenting his journey through statistics, R, Python, 
+    and machine learning — one discovery at a time."
+  site-url: "https://sbaptist.quarto.pub/sbmendy"
   favicon: "images/sang.jpg"
-  page-footer: 
-    center: |
-      [Contact Sang B.](mailto:sangbm7@gmail.com)
-    left: |
-      I created this website with [Quarto](https://quarto.org/)
-    right: |
-      [Github Code Repo](https://github.com/sbaptist)
-    background: "brown"
-  search: 
+
+  # --- SEO: Open Graph (LinkedIn, Facebook, WhatsApp) ---
+  open-graph:
+    title: "Sang B. Mendy | Statistics & Data Science"
+    description: "Tutorials, projects and insights on R, 
+      Python, statistics and machine learning by a Gambian 
+      student in Indonesia."
+    image: images/sang1.jpeg
+    locale: en_US
+
+  # --- SEO: Twitter/X Card ---
+  twitter-card:
+    title: "Sang B. Mendy | Statistics & Data Science"
+    description: "Tutorials and insights on R, Python, 
+      statistics and machine learning."
+    image: images/sang.jpg
+    card-style: summary_large_image
+
+  # --- Google Analytics ---
+  google-analytics:
+    tracking-id: "G-PVPTQ48459"
+    anonymize-ip: true
+
+  # --- Search ---
+  search:
     location: navbar
     type: textbox
+
+  # --- Navigation Bar ---
   navbar:
-    left: 
+    left:
       - text: About
         href: index.qmd
       - text: Projects
@@ -25,29 +47,59 @@ website:
         href: resume.qmd
       - text: Blog
         href: blog.qmd
-      - text: Statistics With R
-        href: statistics With R.qmd
+      - text: "Statistics With R"
+        href: "statistics With R.qmd"
       - text: Resources
         href: resources.qmd
     right:
       - icon: github
-        href: https://github.com/
+        href: https://github.com/sbaptist
+        aria-label: GitHub
       - icon: twitter
-        href: https://twitter.com
-    
+        href: https://twitter.com/YOUR-TWITTER-HANDLE
+        aria-label: Twitter
+      - icon: linkedin
+        href: https://www.linkedin.com/in/YOUR-LINKEDIN
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:sangbm7@gmail.com
+        aria-label: Email
+
+  # --- Footer ---
+  page-footer:
+    left: |
+      I created this website with [Quarto](https://quarto.org/)
+    center: |
+      [Contact Sang B.](mailto:sangbm7@gmail.com)
+    right: |
+      [Github Code Repo](https://github.com/sbaptist)
+    background: "brown"
+
 toc: true
+
 format:
   pdf: default
   ipynb: default
   html:
-    theme: 
+    theme:
       light: flatly
       dark: [cosmo, theme_dark_custom.scss]
     code-link: true
     code-fold: show
-    code-tools: true #code tools
+    code-tools: true
     code-block-bg: "lightblue"
     code-block-border-left: "#31BAE9"
     highlight-style: github
-editor: visual
+    smooth-scroll: true
+    toc: true
+    toc-depth: 3
+    toc-title: "On this page"
+    fig-align: center
+    fig-cap-location: bottom
 
+execute:
+  freeze: auto
+  warning: false
+  message: false
+
+editor: visual

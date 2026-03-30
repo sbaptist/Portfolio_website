@@ -1,6 +1,10 @@
 ---
 title: "Sang B. Mendy"
-image: images/sang.jpg
+description: "Mathematician and Data Scientist from The Gambia, 
+  currently pursuing a Master's degree in Data Science and 
+  Statistics in Indonesia. Sharing everything I learn about 
+  R, Python, statistics and machine learning."
+image: images/sang1.jpeg
 about:
   template: jolla
   image-width: 20em
@@ -8,20 +12,70 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/YOUR-TWITTER-HANDLE
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/YOUR-LINKEDIN
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/sbaptist
     - icon: envelope
       text: Contact me
       href: mailto:sangbm7@gmail.com
 ---
 
-Hello and welcome to my website! I’m Sang B. Mendy, a passionate data enthusiast with a deep interest in statistics, data analysis, and machine learning. I hold a Bachelor's degree in Mathematics, and I’m currently pursuing a Master's degree in Data Science and Statistics at the University of The Gambia. My journey into the world of data has been driven by a fascination with numbers, patterns, and the power of data-driven decision-making.
+Hello and welcome — I am glad you are here.
 
-With a strong foundation in mathematical theory and its practical applications, I specialize in leveraging statistical techniques and machine learning algorithms to solve real-world problems. My academic background, combined with my expertise in software tools like R, MS Excel, and Python, has allowed me to work on a range of projects—from exploratory data analysis to predictive modeling.
+My name is **Sang B. Mendy**, a mathematician turned data scientist from **The Gambia**, currently pursuing a **Master's degree in Data Science and Statistics** in Indonesia. My journey has taken me from the classrooms of the University of The Gambia all the way to Southeast Asia — and along the way, I have discovered that data, when truly understood, has the power to transform lives and communities.
 
-Beyond my technical skills, I value critical thinking, collaboration, and effective communication. I believe that the best results come from working together and sharing knowledge, which is why I started this website. Here, I share insights on data science, machine learning, and statistics, along with practical guides on using tools like R and Python.
+------------------------------------------------------------------------
+
+## What I Do
+
+I sit at the intersection of **mathematics, statistics, and data science**. My work involves turning raw numbers into meaningful insights — through statistical modelling, machine learning, and data visualization.
+
+My core tools are:
+
+-   **R** — for statistical analysis, visualization, and reporting
+-   **Python** — for machine learning and data manipulation
+-   **Quarto & R Markdown** — for reproducible research and documentation
+-   **MS Excel** — for quick data exploration and reporting
+-   **PowerBI** 
+-   **Minitab**
+-   **SQL**
+
+------------------------------------------------------------------------
+
+## What This Website Is About
+
+This website is my **open notebook** — a living record of everything I learn as a student, a researcher, and a data enthusiast. You will find:
+
+-   **Blog posts** — honest reflections on statistics, data science, and life as an African student in Asia
+-   **Tutorials** — step-by-step guides on R, Python, and statistical methods
+-   **Projects** — real analyses and research I have worked on
+-   **Resources** — the best books, courses, and tools I recommend
+
+I believe that the best way to truly understand something is to teach it. So I write — not because I know everything, but because I am learning, and I want to bring you along for the journey.
+
+------------------------------------------------------------------------
+
+## My Story
+
+I grew up in The Gambia with a love for mathematics — the precision of it, the elegance of it, the way a single equation could describe something vast and complex. That love led me to pursue a Bachelor's degree in Mathematics, which then opened the door to the world of data science.
+
+Today, I am studying in Indonesia — thousands of miles from home, immersed in a new culture, a new language, and an exciting new chapter of learning. Living abroad has taught me things that no textbook could: resilience, adaptability, and the beauty of seeing the world through different eyes.
+
+I believe that **where you come from does not limit where you can go** — and I hope this website is proof of that.
+
+------------------------------------------------------------------------
+
+## Currently
+
+-   Master's student in Data Science & Statistics in Indonesia
+-   Learning advanced statistical modelling and machine learning
+-   Building this website as a public learning journal
+-   Open to collaborations, research opportunities, and conversations about data
+
+------------------------------------------------------------------------
+
+*"The goal is not to be perfect. The goal is to keep learning."*

@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/Tutorials/tutorial1.html",
+    "listing": "/Statistics/Statistical_Distributions.html",
     "items": []
   },
   {
@@ -41,23 +41,7 @@
     "items": []
   },
   {
-    "listing": "/Tutorials/tutorial2.html",
-    "items": []
-  },
-  {
-    "listing": "/Statistics With R/Statistical_Distributions.html",
-    "items": []
-  },
-  {
-    "listing": "/Statistics With R/tutorial2.html",
-    "items": []
-  },
-  {
     "listing": "/Statistics/tutorial2.html",
-    "items": []
-  },
-  {
-    "listing": "/Statistics/Statistical_Distributions.html",
     "items": []
   }
 ]
